@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>FAQs</title>
+    <link href="https://fonts.googleapis.com/css2?family=Honk" rel="stylesheet">
 </head>
 <body>
 
@@ -22,19 +23,42 @@
         </nav>
     </header>
 
-    <p>If you have any questions, fill out the form below and we will respond within 24 hours.</p>
+    <h2>Frequently asked questions (FAQs)</h2>
 
-    <!--form-->
-    <form action="/action_page.php">
-        <label for="email">Email address:</label><br>
-        <input type="text" id="email" name="email"><br>
-        <label for="question">Enter question here:</label><br>
-        <input type="text" id="question" name="question"><br><br>
-        <input type="submit" value="Submit">
-    </form>
+    <!--Questions-->
+    <div>
+    <ul>
+        <li>Q: Is Fit-2-Go free to use?</li><br>
+        <li>A: Fit-2-Go offers general fitness and diet
+            information to all users free of charge, however,
+            users do have to pay if they would like to receive a
+             high-quality, expert-crafted, personalised wokout and diet plan.
+        </li><br>
+        <li>Q: Is Fit-2-Go trustworthy?</li><br>
+        <li>A: Absolutely! All of Fit-2-Go's employees and associates
+            have been thoroughly researched and we guarantee they
+            are more than qualified in their respective fields.
+        </li>
+    </ul>
+    </div>
+
+    <p>If you still have any unanswered questions, feel free to fill out the form below and we will respond within 48 hours.</p>
+
+    <div>
+        <form action="/action_page.php">
+            <label for="email">Email address:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+            
+            <label for="question">Enter question here:</label><br>
+            <input type="text" id="question" name="question" required><br><br>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
     <!--footer-->
      <footer>
-        <p>&copy; 2026 fit2go.com. All rights reserved</p>
+        <p>&copy; 2026 fit-2-go.org.za. All rights reserved</p>
     </footer>
 </body>
 </html>
