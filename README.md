@@ -1,13 +1,13 @@
 Vuyo Xashimba - ST10513470
-Project name: POE Part 1
-Fit2Go: Provides information about dieting, exercise and weight loss to consumers.
+Project name: POE Part 2
+Fit-2-Go: Provides information about dieting, exercise and weight loss to consumers.
 Vision: to be one of the leading sources of credible info regarding fitness.
 Mission: to ensure more people have access to credible information regarding fitness.
-Homepage: Gives users a basic idea of the business and what the website offers.
+Homepage: Provides links to other pages on the webpage.
 About us page: Contains a summary of the business’s history, vision and mission statements.
-Contact page: Provides the business’s email address, telephone number and social media accounts.
-Services page: Lists all services provided by the business.
-Enquiries page: provides a form for users to ask questions about the business’s services.
+Contact page: Provides the business’s email address and telephone number.
+Services page: Lists services provided by the business.
+Enquiries page: provides FAQs and a form for users to ask questions about the business’s services.
 •	Due: 29 May 2026
 •	Home page complete by: 25 April
 •	About page complete by: 29 April
